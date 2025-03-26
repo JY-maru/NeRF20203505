@@ -123,11 +123,5 @@ python render.py --model-checkpoint outputs/model_latest.pth
 
 ---
 
-## 📜 License
-이 프로젝트는 MIT 라이선스를 따릅니다.  
-자세한 사항은 [`LICENSE`](LICENSE) 파일을 확인하세요.
-
----
-
 ## 🎯 Contact (문의)
 - 📧 이메일: jeongyeon2134@gmail.com
